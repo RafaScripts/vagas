@@ -36,3 +36,6 @@ Atuliza os dados de um usuário.
 ## teste5.js
 
 Retorne quantas vezes determinado usuário foi lido no teste1.
+
+## teste6
+Crie um middleware para verificar se a pessoa que esta tentando apagar um usuario é um admin.
